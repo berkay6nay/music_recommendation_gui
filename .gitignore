@@ -162,5 +162,8 @@ cython_debug/
 genres_original
 segment.wav
 audio
+Rock_With_You.wav
+Enter_Sandman.wav
+Enter_Sandman_Test.wav
 
 
